@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0A00:00:00,150%20--%3E%2000:00:05,630%0AThe%20Warranty%20Activity%20displays%20the%20warranty%20usage.%20To%20redeem%20the%20warranty,%20click%0A%0A2%0A00:00:05,630%20--%3E%2000:00:07,270%0Athe%20Actions%20drop%20down%20menu.%0A%0A"}')

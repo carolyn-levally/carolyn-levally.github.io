@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0A00:00:00,110%20--%3E%2000:00:04,990%0ATake%20a%20look%20at%20this%20list%20of%20invoiced%20orders.%20Can%20you%20identify%20which%20order%20has%0A%0A2%0A00:00:04,990%20--%3E%2000:00:08,550%0Awarranty%20coverage%20applied?%20Click%20the%20correct%20order%20now.%0A%0A"}')

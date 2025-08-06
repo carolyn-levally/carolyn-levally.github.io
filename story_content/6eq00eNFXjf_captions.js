@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0A00:00:00,150%20--%3E%2000:00:04,830%0ATo%20review%20warranty%20status%20on%20a%20prior%20order,%20click%20Material%20Orders%20in%20the%20patient%0A%0A2%0A00:00:04,830%20--%3E%2000:00:07,750%0Aprofile.%20Go%20ahead%20and%20do%20this%20now.%0A%0A"}')
